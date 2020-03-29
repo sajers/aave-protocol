@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 import "./Proxy.sol";
-import "openzeppelin-solidity/contracts/utils/Address.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package/blob/master/contracts/utils/Address.sol";
 
 /**
  * @title BaseUpgradeabilityProxy
