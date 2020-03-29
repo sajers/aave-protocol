@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
-import "openzeppelin-solidity/contracts/math/SafeMath.sol";
-import "openzeppelin-solidity/contracts/token/ERC20/ERC20Detailed.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package/blob/master/contracts/math/SafeMath.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package/blob/master/contracts/token/ERC20/ERC20Detailed.sol";
 import "../libraries/openzeppelin-upgradeability/VersionedInitializable.sol";
 import "../configuration/LendingPoolAddressesProvider.sol";
 import "./LendingPoolCore.sol";
