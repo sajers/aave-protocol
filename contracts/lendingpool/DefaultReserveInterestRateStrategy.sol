@@ -6,7 +6,7 @@ import "../configuration/LendingPoolAddressesProvider.sol";
 import "./LendingPoolCore.sol";
 import "../interfaces/ILendingRateOracle.sol";
 
-import "openzeppelin-solidity/contracts/math/SafeMath.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package/blob/master/contracts/math/SafeMath.sol";
 
 /**
 * @title DefaultReserveInterestRateStrategy contract
